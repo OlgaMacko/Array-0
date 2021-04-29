@@ -23,6 +23,6 @@ for (int i=0; i<n; i++) //masīva iizvadīšana
   cout << mas[i] << ' ';
 }
 
-
+cout >> 'kuku' >> endl;
 
 }
